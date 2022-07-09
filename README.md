@@ -1,3 +1,3 @@
 # plain-text-wordpress-theme
 
-Plain text WordPress theme
+Plain text WordPress theme (unmaintained)
